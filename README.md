@@ -2,7 +2,7 @@
 
 Это скрипт ELUNA для Trinity Core, использующий новейший движок Eluna Lua Engine или модули Lua. Скрипт Lua использует вебхуки для передачи информации о подключившихся персонажах на указанный канал Discord. Он совместим с Azerotcore, Mango и другими подобными ядрами.
 
-![image](https://raw.githubusercontent.com/saligin/-ELUNA--wow3.3.5-Discord-AuctionHouseBot/main/diskordbot.PNG)
+![image](https://raw.githubusercontent.com/saligin/-ELUNA--wow3.3.5-Discord-AuctionHouseBot/main/diskordbot.PNG](https://github.com/saligin/-ELUNA--wow3.3.5-CharactersArrival/blob/main/images/dsbb.png)
 
 ## Инструкции по настройке
 
