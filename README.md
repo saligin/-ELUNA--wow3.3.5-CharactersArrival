@@ -49,8 +49,8 @@ This is an ELUNA script for Trinity Core, utilizing the latest Eluna Lua Engine 
   - Copy the webhook URL from the last image [here](/images/3.png).
 
 ### 2. Bot Setup
-- Modify the Lua script `AuctionHouse_Bot.lua`:
-  - Replace `YOUR_WEBHOOK_URL` with your webhook URL.
+- Modify the Lua script `CharactersArrival.lua`:
+  - Replace `Replace` with your webhook URL.
     - Lua:
       ```lua
       local playerJoinWebhookURL = "Replace" -- Your Discord webhook link
@@ -86,15 +86,15 @@ Feel free to reach out for assistance or feedback!
   - Скопируйте URL-адрес вебхука с последнего изображения [здесь](/images/3.png).
 
 ### 2. Настройка бота
-- Измените скрипт Lua `AuctionHouse_Bot.lua`:
-  - Замените `YOUR_WEBHOOK_URL` на ваш URL-адрес веб-перехватчика.
+- Измените скрипт Lua `CharactersArrival.lua`:
+  - Замените `Replace` на ваш URL-адрес веб-перехватчика.
     - Lua:
       ```lua
-			local playerJoinWebhookURL = "Заменить - Replace" -- Ссылка на ваш Discord webhook | Your Discord webhook link
+			local playerJoinWebhookURL = "Заменить - Replace" -- Ссылка на ваш Discord webhook 
 
-			local language = "ruRU" -- Установите язык на "ruRU" или "enUS" | Set the language to "ruRU" or "enUS"
+			local language = "ruRU" -- Установите язык на "ruRU" или "enUS"
 
-			local porterAvatarURL = "Заменить - Replace" -- Ссылка на изображение для вашего бота | Link to the image for your bot
+			local porterAvatarURL = "Заменить - Replace" -- Ссылка на изображение для вашего бота
       ```
 
 ### 4. Установка
