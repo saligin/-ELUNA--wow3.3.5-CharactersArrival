@@ -34,3 +34,39 @@
 ## Подтверждение
 
 Не стесняйтесь обращаться за помощью или отзывами!
+# ELUNA-wow3.3.5-CharactersArrival
+
+This is an ELUNA script for Trinity Core, utilizing the latest Eluna Lua Engine or Lua modules. The Lua script uses webhooks to transfer information about connected characters to a specified Discord channel. It is compatible with Azerotcore, Mango, and similar cores.
+
+![image](https://github.com/saligin/-ELUNA--wow3.3.5-CharactersArrival/blob/main/images/dsbb.png)
+
+## Setup Instructions
+
+### 1. Discord Webhook Setup
+- First, create a webhook on your Discord server.
+  - Follow this [link](/images/1.png) for instructions.
+  - Additionally, refer to the second image [here](/images/2.png).
+  - Copy the webhook URL from the last image [here](/images/3.png).
+
+### 2. Bot Setup
+- Modify the Lua script `AuctionHouse_Bot.lua`:
+  - Replace `YOUR_WEBHOOK_URL` with your webhook URL.
+    - Lua:
+      ```lua
+      local playerJoinWebhookURL = "Replace" -- Your Discord webhook link
+
+      local language = "ruRU" -- Set the language to "ruRU" or "enUS"
+
+      local porterAvatarURL = "Replace" -- Link to the image for your bot
+      ```
+
+### 4. Installation
+- Place the `CharactersArrival.lua` file in your `Core/lua_scripts` folder.
+
+### 5. Completion of Setup
+- Reload the server or use the command `.reload eluna`.
+- Information about characters entering the world will be automatically sent to the specified Discord channel.
+
+## Confirmation
+
+Feel free to reach out for assistance or feedback!
