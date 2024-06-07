@@ -17,11 +17,11 @@
   - Замените `YOUR_WEBHOOK_URL` на ваш URL-адрес веб-перехватчика.
     - Lua:
       ```lua
-			local playerJoinWebhookURL = "Заменить - Replace" -- Ссылка на ваш Discord webhook | Your Discord webhook link
+			local playerJoinWebhookURL = "Заменить - Replace" -- Ссылка на ваш Discord webhook 
 
-			local language = "ruRU" -- Установите язык на "ruRU" или "enUS" | Set the language to "ruRU" or "enUS"
+			local language = "ruRU" -- Установите язык на "ruRU" или "enUS" 
 
-			local porterAvatarURL = "Заменить - Replace" -- Ссылка на изображение для вашего бота | Link to the image for your bot
+			local porterAvatarURL = "Заменить - Replace" -- Ссылка на изображение для вашего бота
       ```
 
 ### 4. Установка
@@ -55,7 +55,7 @@ This is an ELUNA script for Trinity Core, utilizing the latest Eluna Lua Engine 
       ```lua
       local playerJoinWebhookURL = "Replace" -- Your Discord webhook link
 
-      local language = "ruRU" -- Set the language to "ruRU" or "enUS"
+      local language = "enUS" -- Set the language to "ruRU" or "enUS"
 
       local porterAvatarURL = "Replace" -- Link to the image for your bot
       ```
