@@ -8,9 +8,11 @@
 
 ### 1. Настройка вебхука Discord
 - Сначала создайте вебхук на своем сервере Discord.
-  - Перейдите по этой [ссылке](wow.zabgame.ru/files/1.png) для получения инструкций.
-  - Кроме того, обратитесь ко второму изображению [здесь](wow.zabgame.ru/files/2.png).
-  - Скопируйте URL-адрес вебхука с последнего изображения [здесь](wow.zabgame.ru/files/3.png).
+  - ![image](https://github.com/saligin/-ELUNA--wow3.3.5-CharactersArrival/blob/main/images/1.png)
+  - Кроме того, обратитесь ко второму изображению
+  - ![image](https://github.com/saligin/-ELUNA--wow3.3.5-CharactersArrival/blob/main/images/2.png)
+  - Скопируйте URL-адрес вебхука 
+  - ![image](https://github.com/saligin/-ELUNA--wow3.3.5-CharactersArrival/blob/main/images/3.png)
 
 ### 2. Настройка бота
 - Измените скрипт Lua `AuctionHouse_Bot.lua`:
