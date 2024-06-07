@@ -1,6 +1,6 @@
 # ELUNA-wow3.3.5-CharactersArrival EN
 
-This is an ELUNA script for Trinity Core, utilizing the latest Eluna Lua Engine or Lua modules. The Lua script uses webhooks to transfer information about connected characters to a specified Discord channel. It is compatible with Azerotcore, Mango, and similar cores.
+This is an ELUNA script for  Azerotcore, utilizing the latest Eluna Lua Engine or Lua modules. The Lua script uses webhooks to transfer information about connected characters to a specified Discord channel. It is compatible with Trinity Core, Mango, and similar cores.
 
 ![image](https://github.com/saligin/-ELUNA--wow3.3.5-CharactersArrival/blob/main/images/dsbb.png)
 
@@ -37,7 +37,7 @@ Feel free to reach out for assistance or feedback!
 
 # ELUNA-wow3.3.5-CharactersArrival RUS
 
-Это скрипт ELUNA для Trinity Core, использующий новейший движок Eluna Lua Engine или модули Lua. Скрипт Lua использует вебхуки для передачи информации о подключившихся персонажах на указанный канал Discord. Он совместим с Azerotcore, Mango и другими подобными ядрами.
+Это скрипт ELUNA для Azerotcore, использующий новейший движок Eluna Lua Engine или модули Lua. Скрипт Lua использует вебхуки для передачи информации о подключившихся персонажах на указанный канал Discord. Он совместим с Trinity Core, Mango и другими подобными ядрами.
 
 ![image](https://github.com/saligin/-ELUNA--wow3.3.5-CharactersArrival/blob/main/images/dsbb.png)
 
